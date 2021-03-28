@@ -1,0 +1,11 @@
+body {
+	background-color: lightblue;
+	font-family: Garamond, Sans-Serif;
+	max-width: 1080px;
+	margin: 0 auto;
+	float: none;
+}
+head {
+	font-family: Garamond, Serif;
+	margin: auto;
+}
